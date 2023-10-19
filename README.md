@@ -35,8 +35,8 @@ Screenshots taken with [FireShot](https://getfireshot.com/)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Files](https://github.com/kemenyfa-szu/frontendmentor-010-accordion)
+- Live Site URL: [GitHub Pages](https://kemenyfa-szu.github.io/frontendmentor-010-accordion/)
 
 ## My process
 
